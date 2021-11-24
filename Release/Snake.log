@@ -1,0 +1,33 @@
+﻿  Main.cpp
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(67,41): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(67,33): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(77,34): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(86,42): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(86,34): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(142,53): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(142,36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(145,50): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(145,33): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(147,45): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(147,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+Main.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: bool __thiscall sf::Music::openFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?openFromFile@Music@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Main.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: virtual __thiscall sf::Music::~Music(void)" (__imp_??1Music@sf@@UAE@XZ)
+Main.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: __thiscall sf::Music::Music(void)" (__imp_??0Music@sf@@QAE@XZ)
+Main.obj : error LNK2001: symbole externe non résolu "__declspec(dllimport) public: virtual void __thiscall sf::SoundStream::play(void)" (__imp_?play@SoundStream@sf@@UAEXXZ)
+C:\Users\evanb\source\repos\SnakeBeta\Release\Snake.exe : fatal error LNK1120: 4 externes non résolus

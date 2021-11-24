@@ -1,0 +1,45 @@
+﻿  Main.cpp
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(11,43): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(41,27): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(130,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(206,43): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(268,41): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(268,33): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(274,49): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(274,32): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(289,42): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(289,34): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(292,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(292,29): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(306,43): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(306,35): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(309,58): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(309,35): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(322,34): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(325,41): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\evanb\source\repos\SnakeBeta\Main.cpp(325,27): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Snake.vcxproj -> C:\Users\evanb\source\repos\SnakeBeta\Debug\Snake.exe
